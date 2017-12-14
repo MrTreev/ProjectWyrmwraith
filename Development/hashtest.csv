@@ -1,0 +1,7 @@
+"cmbAlignOverview"	"ALIGN:"	"single"
+"cmbCharTypeOverview"	"CHARACTERTYPE:"	"single"
+"cmbDeityOverview"	"DEITY:"	"single"
+"cmbGenderOverview"	"GENDER:"	"single"
+"qlnNameOverview"	"CHARACTERNAME:"	"single"
+"qlnPlayerOverview"	"PLAYERNAME:"	"single"
+"lstLanguagesOverview"	"LANGUAGE:"	"loop"

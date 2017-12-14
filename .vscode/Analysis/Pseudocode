@@ -1,0 +1,11 @@
+START
+	Input CName
+	Execute SourceWindow.pyc
+	Recieve SourceList
+	Input CPlayer
+	While CPlayer not NULL
+		Add CPlayer to CPlayersArray
+	EndWhile
+	Input CDescription
+	Save Variales to CName.txt
+END

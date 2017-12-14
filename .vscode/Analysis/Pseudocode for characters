@@ -1,0 +1,8 @@
+WidgetName			SearchTerm			Single/Loop
+if Single{
+	searchvar = (search .pcg for term and take what's after it.)
+	WidgetName.settext(searchvar)
+}
+elif Loop{
+	searchvar = 
+}

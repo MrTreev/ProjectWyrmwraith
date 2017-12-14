@@ -1,0 +1,267 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Core Rulebook|CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Bestiary|CAMPAIGN:Bestiary 2|CAMPAIGN:Bestiary 3|CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Ultimate Magic|CAMPAIGN:Pathfinder Unchained|CAMPAIGN:Advanced Class Guide|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Storm Bunny Studios - The Gun Priest|CAMPAIGN:Technology Guide|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Super Genius Games - Adventurer's Handbook|CAMPAIGN:Super Genius Games - Genius Guide: Air Magic|CAMPAIGN:Super Genius Games - Krazy Kragnar's Alchemical Surplus Shop|CAMPAIGN:The Genius Guide to The Talented Rogue|CAMPAIGN:Animal Archive|CAMPAIGN:Adventurer's Armory|CAMPAIGN:Ultimate Campaign|CAMPAIGN:PF - Weapon Master's Handbook|CAMPAIGN:PF - Quests and Campaigns|CAMPAIGN:Ranged Tactics Toolbox|CAMPAIGN:Elves of Golarion|CAMPAIGN:Pirates of the Inner Sea|CAMPAIGN:People of the North|CAMPAIGN:Orcs of Golarion|CAMPAIGN:Magical Marketplace|CAMPAIGN:Melee Tactics Toolbox|CAMPAIGN:Knights of the Inner Sea|CAMPAIGN:Inner Sea Primer|CAMPAIGN:Inner Sea Bestiary|CAMPAIGN:Inner Sea Combat|CAMPAIGN:Inner Sea Gods|CAMPAIGN:Inner Sea Magic|CAMPAIGN:Humans of Golarion|CAMPAIGN:Halflings of Golarion|CAMPAIGN:Dungeoneer's Handbook|CAMPAIGN:Dwarves of Golarion|CAMPAIGN:Faiths and Philosophies|CAMPAIGN:Faiths of Balance|CAMPAIGN:Faiths of Corruption|CAMPAIGN:Faiths of Purity|CAMPAIGN:Gnomes of Golarion|CAMPAIGN:Goblins of Golarion|CAMPAIGN:PF - Demon Hunter's Handbook|CAMPAIGN:Critical Fumble Deck|CAMPAIGN:Champions of Balance|CAMPAIGN:Champions of Corruption|CAMPAIGN:Champions of Purity|CAMPAIGN:Cheliax - Empire of Devils|CAMPAIGN:Blood of Angels|CAMPAIGN:Blood of Fiends|CAMPAIGN:Blood of the Elements|CAMPAIGN:Blood of the Moon|CAMPAIGN:Blood of the Night|CAMPAIGN:Bastards of Golarion|CAMPAIGN:Alchemy Manual|CAMPAIGN:Andoran - Spirit of Liberty|CAMPAIGN:Reign of Winter Player's Guide|CAMPAIGN:Minotaur - Monster Focus: Skeletons|CAMPAIGN:Minotaur - Monster Focus: Zombies|CAMPAIGN:Dragon Companion Handbook|CAMPAIGN:Advanced Options: Inquisitors' Judgments|CAMPAIGN:101 1st Level Spells|CAMPAIGN:Epic Test|CAMPAIGN:PF - City of Strangers|CAMPAIGN:Eclipse - The Codex Persona (PF)|CAMPAIGN:DSP - Ultimate Psionics|CAMPAIGN:Path of War|CAMPAIGN:Remarkable Races|CAMPAIGN:PCGen Enhancement Re-namer
+VERSION:6.06.01 RC3
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Ulthia
+TABNAME:
+PLAYERNAME:
+HEIGHT:71
+WEIGHT:185
+AGE:22
+GENDER:Female
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:14
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:19
+STAT:CHA|SCORE:10
+ALIGN:NE
+RACE:Human
+
+# Character Class(es)
+CLASS:Druid|LEVEL:4|SKILLPOOL:0
+CLASSABILITIESLEVEL:Druid=1|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Druid=2|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Druid=3|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Druid=4|HITPOINTS:8|PRESTAT:WIS=1|SKILLSGAINED:5|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:9000
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:FACE_5]
+TEMPLATESAPPLIED:[NAME:REACH_5]
+TEMPLATESAPPLIED:[NAME:Human Ethnicity]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (River Kingdoms)]
+
+# Character Region
+REGION:The River Kingdoms
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Acrobatics (Perform (Dance))|OUTPUTORDER:2|
+SKILL:Appraise|OUTPUTORDER:3|
+SKILL:Appraise (Perception)|OUTPUTORDER:4|
+SKILL:Artistry|OUTPUTORDER:5|
+SKILL:Bluff|OUTPUTORDER:7|
+SKILL:Bluff (Feint)|OUTPUTORDER:8|
+SKILL:Bluff (Perform (Act))|OUTPUTORDER:9|
+SKILL:Bluff (Perform (Comedy))|OUTPUTORDER:10|
+SKILL:Bluff (Perform (Sing))|OUTPUTORDER:11|
+SKILL:Bluff (Perform (String Instruments))|OUTPUTORDER:12|
+SKILL:Climb|OUTPUTORDER:13|
+SKILL:Consolidated Skill ~ Athletics|OUTPUTORDER:6|
+SKILL:Consolidated Skill ~ Influence|OUTPUTORDER:32|
+SKILL:Consolidated Skill ~ Performance|OUTPUTORDER:43|
+SKILL:Craft (Untrained)|OUTPUTORDER:14|
+SKILL:Diplomacy|OUTPUTORDER:15|
+SKILL:Diplomacy (Knowledge (Nobility))|OUTPUTORDER:16|
+SKILL:Diplomacy (Perform (Keyboard Instruments))|OUTPUTORDER:17|
+SKILL:Diplomacy (Perform (Oratory))|OUTPUTORDER:18|
+SKILL:Diplomacy (Perform (String Instruments))|OUTPUTORDER:19|
+SKILL:Diplomacy (Perform (Wind Instruments))|OUTPUTORDER:20|
+SKILL:Disguise|OUTPUTORDER:22|
+SKILL:Disguise (Perform (Act))|OUTPUTORDER:23|
+SKILL:Escape Artist|OUTPUTORDER:24|
+SKILL:Fly|OUTPUTORDER:25|
+SKILL:Fly (Perform (Dance))|OUTPUTORDER:26|
+SKILL:Handle Animal|OUTPUTORDER:28|CLASSBOUGHT:[CLASS:Druid|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:29|
+SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:30|
+SKILL:Heal|OUTPUTORDER:31|
+SKILL:Intimidate|OUTPUTORDER:33|
+SKILL:Intimidate (Perform (Comedy))|OUTPUTORDER:34|
+SKILL:Intimidate (Perform (Keyboard Instruments))|OUTPUTORDER:35|
+SKILL:Intimidate (Perform (Percussion Instruments))|OUTPUTORDER:36|
+SKILL:Knowledge (Untrained)|OUTPUTORDER:37|
+SKILL:Mystic Artist Skill|OUTPUTORDER:39|
+SKILL:Perception|OUTPUTORDER:40|CLASSBOUGHT:[CLASS:Druid|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Perception (Dim Light)|OUTPUTORDER:41|
+SKILL:Perform (Untrained)|OUTPUTORDER:42|
+SKILL:Profession (Untrained)|OUTPUTORDER:44|
+SKILL:Ride|OUTPUTORDER:45|CLASSBOUGHT:[CLASS:Druid|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Samurai Mount|OUTPUTORDER:46|
+SKILL:Sense Motive|OUTPUTORDER:47|
+SKILL:Sense Motive (Perception)|OUTPUTORDER:48|
+SKILL:Sense Motive (Perform (Oratory))|OUTPUTORDER:49|
+SKILL:Sense Motive (Perform (Sing))|OUTPUTORDER:50|
+SKILL:Spellcraft|CLASSBOUGHT:[CLASS:Druid|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Stealth|OUTPUTORDER:53|
+SKILL:Stealth (Cane Fields)|OUTPUTORDER:54|
+SKILL:Stealth (Dim Light)|OUTPUTORDER:55|
+SKILL:Stealth (Jungle)|OUTPUTORDER:56|
+SKILL:Survival|OUTPUTORDER:57|CLASSBOUGHT:[CLASS:Druid|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival (Follow tracks)|OUTPUTORDER:58|
+SKILL:Swim|OUTPUTORDER:59|
+SKILL:Untrained Charisma|OUTPUTORDER:60|
+SKILL:Untrained Dexterity|OUTPUTORDER:61|
+SKILL:Untrained Intelligence|OUTPUTORDER:62|
+SKILL:Untrained Strength|OUTPUTORDER:63|
+SKILL:Untrained Wisdom|OUTPUTORDER:64|
+SKILL:Untrained ~ Disable Device|OUTPUTORDER:21|
+SKILL:Untrained ~ Handle Animal|OUTPUTORDER:27|
+SKILL:Untrained ~ Linguistics|OUTPUTORDER:38|
+SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:51|
+SKILL:Untrained ~ Spellcraft|OUTPUTORDER:52|
+SKILL:Untrained ~ Use Magic Device|OUTPUTORDER:65|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Druidic
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Ability Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:+2 Wisdom|TYPE:AbilityBonus
+USERPOOL:Ability Bonus|POOLPOINTS:0.0
+ABILITY:Druid Archetype|TYPE:NORMAL|CATEGORY:Archetype|KEY:Druid Archetype ~ Wolf Shaman|TYPE:Archetype.DruidArchetype.DruidThousandFaces.DruidVenomImmunity.DruidWildshape|DESC:A shaman with this totem calls upon the clever wolf, capable of roaming alone yet wise enough to run with a pack when facing dangers too great for one alone.
+USERPOOL:Druid Archetype|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Martial Weapon Proficiency|APPLIEDTO:Longbow|TYPE:Combat.MartialWeaponProficiency.RakshasaBloodline|DESC:You understand how to use your chosen martial weapon in combat.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Monstrous Mount|TYPE:Monstrous Mount|DESC:You have learned how to tame and ride exotic beasts.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Monstrous Mount Mastery|TYPE:Monstrous Mount|DESC:Your monstrous mount has developed an ability that only its wild kin would normally possess.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Druid|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Skill Rank|APPLIEDTO:Diplomacy,Diplomacy,Diplomacy,Diplomacy|TYPE:FavoredClassBonus
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:Human Ethnicity|TYPE:NORMAL|CATEGORY:Background|KEY:Human Ethnicity ~ None|TYPE:HumanEthnicity
+USERPOOL:Human Ethnicity|POOLPOINTS:0.0
+ABILITY:Human Racial Subtype|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Racial Subtype ~ None|TYPE:Universal Subtype|DESC:You have chosen no racial subtype.
+USERPOOL:Human Racial Subtype|POOLPOINTS:0.0
+ABILITY:Nature Bond|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Nature's Bond ~ Animal Companion|TYPE:DruidClassFeatures.SpecialQuality.Extraordinary.NatureBond.DruidAnimalCompanion.Animal Companion|DESC:A bear shaman who chooses an animal companion must select a bear.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Bear Shaman|DESC:An eagle shaman who chooses an animal companion must select a bird (eagle).&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Eagle Shaman|DESC:A lion shaman who chooses an animal companion must select a lion.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Lion Druid|DESC:A serpent shaman who chooses an animal companion must select a snake.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Serpent Shaman|DESC:A wolf shaman who chooses an animal companion must select a wolf.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Wolf Shaman|DESC:You may not choose an animal companion.&pipe;PREABILITY&colon;1,CATEGORY=Archetype,Druid Archetype ~ Storm Druid
+USERPOOL:Nature Bond|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:River Kingdoms|TYPE:Region|DESC:Independent Realms of Low Character
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Blood of Giants|TYPE:Trait.CampaignTrait|DESC:You're a big person, and people have always said you've got some giant blood in you. Even as a child, you towered over your friends, and as you grew older, you grew even taller and stronger. Maybe your hair has a tint of blue as well, or your skin is as pale as snow. Perhaps someday you'll get the opportunity to travel to the North and meet some real giants, and see whether the rumors about you are true. You gain a +1 trait bonus on combat maneuver checks to sunder, and a +1 trait bonus to your CMD against bull rush and overrun combat maneuvers.
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Tundra Child|TYPE:Trait.BasicTrait.RegionalTrait|DESC:You were born and raised in the cold wastes of the far north or far south, and are accustomed to low temperatures. You gain a +4 trait bonus on saving throws made to resist the effects of being in cold conditions and a +1 trait bonus on saving throws against cold effects.
+USERPOOL:Traits|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Club|WEAPON:Dagger|WEAPON:Dart|WEAPON:Grapple|WEAPON:Longbow|WEAPON:Quarterstaff|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shortspear|WEAPON:Sickle]
+WEAPONPROF:[WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Splash Weapon|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:1624.700000000000045474735088646411895751953125
+EQUIPNAME:+1 Composite Longbow STR (Obsidian/Paper Cut/+1)|OUTPUTORDER:1|COST:2500.0|WT:3.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Longbow (Composite)|DATA:NAME=+1 Composite Longbow STR (Obsidian/Paper Cut/+1)$KEY=+1 Longbow (Composite/Obsidian/Paper Cut/+1)$EQMOD=OBSIDIAN.BOWSTR&pipe;+1.PLUS1W.PPRCT]
+EQUIPNAME:Arrows (20)|OUTPUTORDER:5|COST:1.0|WT:3.0|QUANTITY:5.0|NOTE:|CUSTOMIZATION:[BASEITEM:Arrows (20)|DATA:EQMOD=STEEL.WOOD]
+EQUIPNAME:Bedroll|OUTPUTORDER:6|COST:0.1|WT:5.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bedroll|DATA:NAME=Bedroll]
+EQUIPNAME:Belt|OUTPUTORDER:19|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Belt|DATA:NAME=Belt]
+EQUIPNAME:Blanket (Winter)|OUTPUTORDER:7|COST:0.5|WT:3.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Bracers|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bracers|DATA:NAME=Bracers]
+EQUIPNAME:Cloak|OUTPUTORDER:20|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Cloak|DATA:NAME=Cloak]
+EQUIPNAME:Compass|OUTPUTORDER:8|COST:10|WT:0.5|QUANTITY:1.0|NOTE:
+EQUIPNAME:Endless Bandolier|OUTPUTORDER:4|COST:1500|WT:2.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Endless Bandolier|DATA:NAME=Endless Bandolier]
+EQUIPNAME:Flint and Steel|OUTPUTORDER:9|COST:1|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Gloves|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Gloves|DATA:NAME=Gloves]
+EQUIPNAME:Lantern (Bullseye/Waterproof)|OUTPUTORDER:10|COST:17|WT:3.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Masterwork Leather|OUTPUTORDER:21|COST:160.0|WT:15.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Leather|DATA:NAME=Masterwork Leather$EQMOD=LEATHER.MWORKA]
+EQUIPNAME:Mess Kit|OUTPUTORDER:11|COST:0.2|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Oil (1 Pint Flask)|OUTPUTORDER:12|COST:0.1|WT:1.0|QUANTITY:10.0|NOTE:
+EQUIPNAME:Outfit (Cold-Weather)|OUTPUTORDER:22|COST:0|WT:7.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Outfit (Cold-Weather)|DATA:NAME=Outfit (Cold-Weather)$COSTMOD=-8]
+EQUIPNAME:Rope (Silk/50 ft)|OUTPUTORDER:13|COST:10|WT:5.0|QUANTITY:2.0|NOTE:
+EQUIPNAME:Sewing Needle|OUTPUTORDER:14|COST:0.5|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Snowshoes (Leather)|OUTPUTORDER:23|COST:5.0|WT:4.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Snowshoes|DATA:NAME=Snowshoes (Leather)$EQMOD=LEATHER]
+EQUIPNAME:String (50 feet)|OUTPUTORDER:15|COST:0|WT:0.5|QUANTITY:10.0|NOTE:
+EQUIPNAME:Survival Kit (Masterwork)|OUTPUTORDER:16|COST:50|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Tent (Pavilion) (10 people)|OUTPUTORDER:17|COST:100|WT:50.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Waterskin (Filled)|OUTPUTORDER:18|COST:1|WT:4.0|QUANTITY:5.0|NOTE:
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Chest|ID:0.1.01|VALUE:Endless Bandolier|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.01|VALUE:Arrows (20)|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.02|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.03|VALUE:Blanket (Winter)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.04|VALUE:Compass|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.05|VALUE:Flint and Steel|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.06|VALUE:Lantern (Bullseye/Waterproof)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.07|VALUE:Mess Kit|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.08|VALUE:Oil (1 Pint Flask)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.09|VALUE:Rope (Silk/50 ft)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.10|VALUE:Sewing Needle|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.11|VALUE:String (50 feet)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.12|VALUE:Survival Kit (Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.13|VALUE:Tent (Pavilion) (10 people)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Endless Bandolier|ID:0.1.01.14|VALUE:Waterskin (Filled)|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.02|VALUE:+1 Composite Longbow STR (Obsidian/Paper Cut/+1)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Belt|ID:0.1.03|VALUE:Belt|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Wrist|ID:0.1.04|VALUE:Bracers|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shoulders|ID:0.1.05|VALUE:Cloak|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.06|VALUE:Gloves|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.07|VALUE:Masterwork Leather|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.08|VALUE:Outfit (Cold-Weather)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Feet|ID:0.1.09|VALUE:Snowshoes (Leather)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:The Green Mother|DEITYDOMAINS:[DOMAIN:Charm|DOMAIN:Earth|DOMAIN:Evil|DOMAIN:Plant|DOMAIN:Caves Subdomain|DOMAIN:Decay Subdomain|DOMAIN:Growth Subdomain|DOMAIN:Lust Subdomain]|ALIGNALLOW:|DESC:Eldest of carnivorous plants, intrigue, seduction|DEITYFAVWEAP:[WEAPON:Sickle]|DEITYALIGN:NE
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Tyrin|TYPE:Animal Companion|RACE:COMPANION (WOLF)|HITDICE:0|FILE:Tyrin(Ulthia's Companion).pcg
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:1:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

@@ -1,0 +1,17 @@
+True
+False
+1234567890
+!@#$%^&*()_+{}|:";'[]\<>?,./~`
+hello
+okjnasepoinwrepinweproinbrewqpoiunweprnwqeroivnqwknmxa[poivnjq[oih4[0oidsaonvc0aisnvdpo^*^&_*^)*&^*^%ngrpiuwnrpnf
+3.141592615358979323846264338327950288419716939937510
+2.6
+1.5
+sudo rm -rf
+"\n print("you've been pwned)
+1
+0
+-1324123415
+-1.6
+4*3
+4+8

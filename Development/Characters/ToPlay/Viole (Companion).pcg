@@ -1,0 +1,153 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Core Rulebook|CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Bestiary|CAMPAIGN:Bestiary 2|CAMPAIGN:Bestiary 3|CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Ultimate Magic|CAMPAIGN:Pathfinder Unchained|CAMPAIGN:Advanced Class Guide|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Storm Bunny Studios - The Gun Priest|CAMPAIGN:Technology Guide|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Super Genius Games - Adventurer's Handbook|CAMPAIGN:Super Genius Games - Genius Guide: Air Magic|CAMPAIGN:Super Genius Games - Krazy Kragnar's Alchemical Surplus Shop|CAMPAIGN:The Genius Guide to The Talented Rogue|CAMPAIGN:Animal Archive|CAMPAIGN:Adventurer's Armory|CAMPAIGN:Ultimate Campaign|CAMPAIGN:PF - Weapon Master's Handbook|CAMPAIGN:PF - Quests and Campaigns|CAMPAIGN:Ranged Tactics Toolbox|CAMPAIGN:Elves of Golarion|CAMPAIGN:Pirates of the Inner Sea|CAMPAIGN:People of the North|CAMPAIGN:Orcs of Golarion|CAMPAIGN:Magical Marketplace|CAMPAIGN:Melee Tactics Toolbox|CAMPAIGN:Knights of the Inner Sea|CAMPAIGN:Inner Sea Primer|CAMPAIGN:Inner Sea Bestiary|CAMPAIGN:Inner Sea Combat|CAMPAIGN:Inner Sea Gods|CAMPAIGN:Inner Sea Magic|CAMPAIGN:Humans of Golarion|CAMPAIGN:Halflings of Golarion|CAMPAIGN:Dungeoneer's Handbook|CAMPAIGN:Dwarves of Golarion|CAMPAIGN:Faiths and Philosophies|CAMPAIGN:Faiths of Balance|CAMPAIGN:Faiths of Corruption|CAMPAIGN:Faiths of Purity|CAMPAIGN:Gnomes of Golarion|CAMPAIGN:Goblins of Golarion|CAMPAIGN:PF - Demon Hunter's Handbook|CAMPAIGN:Critical Fumble Deck|CAMPAIGN:Champions of Balance|CAMPAIGN:Champions of Corruption|CAMPAIGN:Champions of Purity|CAMPAIGN:Cheliax - Empire of Devils|CAMPAIGN:Blood of Angels|CAMPAIGN:Blood of Fiends|CAMPAIGN:Blood of the Elements|CAMPAIGN:Blood of the Moon|CAMPAIGN:Blood of the Night|CAMPAIGN:Bastards of Golarion|CAMPAIGN:Alchemy Manual|CAMPAIGN:Andoran - Spirit of Liberty|CAMPAIGN:Reign of Winter Player's Guide|CAMPAIGN:Minotaur - Monster Focus: Skeletons|CAMPAIGN:Minotaur - Monster Focus: Zombies|CAMPAIGN:Dragon Companion Handbook|CAMPAIGN:Advanced Options: Inquisitors' Judgments|CAMPAIGN:101 1st Level Spells|CAMPAIGN:Epic Test|CAMPAIGN:PF - City of Strangers|CAMPAIGN:Eclipse - The Codex Persona (PF)|CAMPAIGN:DSP - Ultimate Psionics|CAMPAIGN:Path of War|CAMPAIGN:Remarkable Races|CAMPAIGN:PCGen Enhancement Re-namer
+VERSION:6.06.01 RC3
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Viole
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:10
+STAT:DEX|SCORE:11
+STAT:CON|SCORE:0
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:11
+ALIGN:TN
+RACE:Familiar (Homunculus)
+
+# Character Class(es)
+CLASS:Construct|LEVEL:2|SKILLPOOL:4|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Construct=1|HITPOINTS:10|SKILLSGAINED:2|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Construct=2|HITPOINTS:10|SKILLSGAINED:2|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:0
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:No Constitution Score]
+TEMPLATESAPPLIED:[NAME:REACH_0]
+TEMPLATESAPPLIED:[NAME:FACE_2]
+TEMPLATESAPPLIED:[NAME:Construct]
+TEMPLATESAPPLIED:[NAME:Bite 1 (Tiny)]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (Numeria)]
+TEMPLATESAPPLIED:[NAME:Heavens Spirit Animal ~ Enhance Fly Speed]
+
+# Character Region
+REGION:Numeria
+
+# Character Skills
+SKILL:Appraise|
+SKILL:Craft (Clockwork)|
+SKILL:Disable Device|
+SKILL:Knowledge (Arcana)|
+SKILL:Knowledge (Engineering)|
+SKILL:Linguistics||ASSOCIATEDDATA:Aboleth|ASSOCIATEDDATA:Ancient Osiriani|ASSOCIATEDDATA:Azlanti|ASSOCIATEDDATA:Undercommon|ASSOCIATEDDATA:Infernal|ASSOCIATEDDATA:Ignan|ASSOCIATEDDATA:Daemon|ASSOCIATEDDATA:Celestial|ASSOCIATEDDATA:Abyssal|ASSOCIATEDDATA:Truespeech
+SKILL:Perception|CLASSBOUGHT:[CLASS:Construct|RANKS:2.0|COST:1|CLASSSKILL:N]
+SKILL:Perception (Mystic energy)|
+SKILL:Profession (Engineer)|
+SKILL:Spellcraft|
+SKILL:Stealth|CLASSBOUGHT:[CLASS:Construct|RANKS:2.0|COST:1|CLASSSKILL:N]
+
+# Character Languages
+LANGUAGE:Aboleth|LANGUAGE:Abyssal|LANGUAGE:Ancient Osiriani|LANGUAGE:Azlanti|LANGUAGE:Celestial|LANGUAGE:Common|LANGUAGE:Daemon|LANGUAGE:Ignan|LANGUAGE:Infernal|LANGUAGE:Truespeech|LANGUAGE:Undercommon
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Eidolon Evolution|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Evolution ~ Flight Winged|TYPE:EvolutionChoice.Extraordinary
+ABILITY:Eidolon Evolution|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Evolution ~ Tail|APPLIEDTO:|TYPE:EvolutionChoice.Extraordinary.EvolutionSerpentine|DESC:The eidolon grows a long, powerful tail. This grants it a +2 racial bonus on Acrobatics checks made to balance on a surface.
+USERPOOL:Eidolon Evolution|POOLPOINTS:2.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Lightning Reflexes|TYPE:General.DestinedBloodline.ElementalBloodline.FeyBloodline.DruidShamanEagle.SharkShamanBonus.DjinniBloodline.EfreetiBloodline.MaridBloodline.ShaitanBloodline.DestinedBloodragerBloodline.ElementalBloodragerBloodline.FeyBloodragerBloodline.KoboldBloodline.LifewaterBloodline.ShahzadaBloodline|DESC:You have faster reflexes than normal.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:Numeria|TYPE:Region|DESC:Savage Land of Super-Science
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Bite]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:None|DEITYDOMAINS:[DOMAIN:Aeon Subdomain|DOMAIN:Agathion Subdomain|DOMAIN:Air|DOMAIN:Ancestors Subdomain|DOMAIN:Animal|DOMAIN:Aquatic|DOMAIN:Arcane Subdomain|DOMAIN:Archon Subdomain (Good)|DOMAIN:Archon Subdomain (Law)|DOMAIN:Arctic|DOMAIN:Aristocracy Subdomain|DOMAIN:Arson Subdomain|DOMAIN:Artifice|DOMAIN:Ash Subdomain|DOMAIN:Azata Subdomain (Chaos)|DOMAIN:Azata Subdomain (Good)|DOMAIN:Badlands|DOMAIN:Blood Subdomain|DOMAIN:Cannibalism Subdomain|DOMAIN:Catastrophe Subdomain|DOMAIN:Cave|DOMAIN:Caves Subdomain|DOMAIN:Chaos|DOMAIN:Charm|DOMAIN:Cloud Subdomain|DOMAIN:Cold Iron|DOMAIN:Community|DOMAIN:Construct Subdomain|DOMAIN:Cooperation Subdomain|DOMAIN:Corruption Subdomain|DOMAIN:Crocodile|DOMAIN:Curse Subdomain|DOMAIN:Daemon Subdomain|DOMAIN:Dark Tapestry Subdomain|DOMAIN:Darkness|DOMAIN:Day Subdomain|DOMAIN:Death|DOMAIN:Death (Pharasma)|DOMAIN:Decay Subdomain|DOMAIN:Deception Subdomain|DOMAIN:Defense Subdomain|DOMAIN:Demodand Subdomain (Chaos)|DOMAIN:Demodand Subdomain (Evil)|DOMAIN:Demon Subdomain (Chaos)|DOMAIN:Demon Subdomain (Evil)|DOMAIN:Desert|DOMAIN:Destruction|DOMAIN:Devil Subdomain (Evil)|DOMAIN:Devil Subdomain (Law)|DOMAIN:Discipline Subdomain|DOMAIN:Divine Subdomain|DOMAIN:Dragon Subdomain|DOMAIN:Dreams Subdomain|DOMAIN:Eagle|DOMAIN:Earth|DOMAIN:Entropy Subdomain|DOMAIN:Evil|DOMAIN:Exploration Subdomain|DOMAIN:Family Subdomain|DOMAIN:Fate Subdomain|DOMAIN:Fear Subdomain|DOMAIN:Feather Subdomain|DOMAIN:Ferocity Subdomain|DOMAIN:Fire|DOMAIN:Fist Subdomain|DOMAIN:Flotsam Subdomain|DOMAIN:Flowing Subdomain|DOMAIN:Freedom Subdomain|DOMAIN:Friendship Subdomain|DOMAIN:Frog|DOMAIN:Fur Subdomain|DOMAIN:Glory|DOMAIN:Good|DOMAIN:Greed Subdomain|DOMAIN:Growth Subdomain|DOMAIN:Hatred Subdomain|DOMAIN:Healing|DOMAIN:Heroism Subdomain|DOMAIN:Home Subdomain|DOMAIN:Honor Subdomain|DOMAIN:Ice|DOMAIN:Ice Subdomain|DOMAIN:Imagination Subdomain|DOMAIN:Inevitable Subdomain|DOMAIN:Innuendo Subdomain|DOMAIN:Insanity Subdomain|DOMAIN:Isolation Subdomain|DOMAIN:Judgment Subdomain|DOMAIN:Jungle|DOMAIN:Knowledge|DOMAIN:Kyton Subdomain (Evil)|DOMAIN:Kyton Subdomain (Law)|DOMAIN:Language Subdomain|DOMAIN:Law|DOMAIN:Leadership Subdomain|DOMAIN:Liberation|DOMAIN:Light Subdomain|DOMAIN:Loss Subdomain|DOMAIN:Love Subdomain|DOMAIN:Loyalty Subdomain|DOMAIN:Luck|DOMAIN:Lust Subdomain|DOMAIN:Madness|DOMAIN:Magic|DOMAIN:Martyr Subdomain|DOMAIN:Memory Subdomain|DOMAIN:Metal Subdomain|DOMAIN:Monkey|DOMAIN:Moon Subdomain|DOMAIN:Mountain|DOMAIN:Murder Subdomain|DOMAIN:Night Subdomain|DOMAIN:Nightmare Subdomain|DOMAIN:Nobility|DOMAIN:Noetics Subdomain|DOMAIN:Oceans Subdomain|DOMAIN:Panther|DOMAIN:Plains|DOMAIN:Plant|DOMAIN:Preservation|DOMAIN:Protean Subdomain|DOMAIN:Protection|DOMAIN:Psionics|DOMAIN:Psychopomp Subdomain (Death)|DOMAIN:Psychopomp Subdomain (Repose)|DOMAIN:Purity Subdomain|DOMAIN:Rage Subdomain|DOMAIN:Redemption Subdomain|DOMAIN:Repose|DOMAIN:Resolve Subdomain|DOMAIN:Restoration Subdomain|DOMAIN:Resurrection Subdomain|DOMAIN:Revelation Subdomain|DOMAIN:Revelry Subdomain|DOMAIN:Revolution Subdomain|DOMAIN:Rivers Subdomain|DOMAIN:Rune|DOMAIN:Saurian Subdomain|DOMAIN:Scalykind|DOMAIN:Seasons Subdomain|DOMAIN:Serpent|DOMAIN:Slavery Subdomain|DOMAIN:Smoke Subdomain|DOMAIN:Solitude Subdomain|DOMAIN:Souls (Pharasma) Subdomain|DOMAIN:Souls Subdomain|DOMAIN:Stars Subdomain|DOMAIN:Storms Subdomain|DOMAIN:Strength|DOMAIN:Sun|DOMAIN:Swamp|DOMAIN:Tactics Subdomain|DOMAIN:Thievery Subdomain|DOMAIN:Thought Subdomain|DOMAIN:Toil Subdomain|DOMAIN:Torture Subdomain|DOMAIN:Trade Subdomain|DOMAIN:Travel|DOMAIN:Trickery|DOMAIN:Tyranny Subdomain|DOMAIN:Undead Subdomain|DOMAIN:Venom Subdomain|DOMAIN:Void|DOMAIN:Vulture|DOMAIN:War|DOMAIN:Wards Subdomain|DOMAIN:Water|DOMAIN:Weather|DOMAIN:Whimsy Subdomain|DOMAIN:Wind|DOMAIN:Wind Subdomain|DOMAIN:Wolf]|ALIGNALLOW:|DESC:None|DEITYFAVWEAP:[WEAPON:ALL]|DEITYALIGN:
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Familiar ~ Homunculus
+
+# Character Master/Follower
+MASTER:Bulliwun Scheppin|TYPE:Familiar|HITDICE:0|FILE:Bulliwun Scheppin (Gnome Crafter).pcg|ADJUSTMENT:0
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

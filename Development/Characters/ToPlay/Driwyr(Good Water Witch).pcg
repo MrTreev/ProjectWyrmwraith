@@ -1,0 +1,300 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Core Rulebook|CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Bestiary|CAMPAIGN:Bestiary 2|CAMPAIGN:Bestiary 3|CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Ultimate Magic|CAMPAIGN:Pathfinder Unchained|CAMPAIGN:Advanced Class Guide|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Storm Bunny Studios - The Gun Priest|CAMPAIGN:Technology Guide|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Super Genius Games - Adventurer's Handbook|CAMPAIGN:Super Genius Games - Genius Guide: Air Magic|CAMPAIGN:Super Genius Games - Krazy Kragnar's Alchemical Surplus Shop|CAMPAIGN:The Genius Guide to The Talented Rogue|CAMPAIGN:Animal Archive|CAMPAIGN:Adventurer's Armory|CAMPAIGN:Ultimate Campaign|CAMPAIGN:PF - Weapon Master's Handbook|CAMPAIGN:PF - Quests and Campaigns|CAMPAIGN:Ranged Tactics Toolbox|CAMPAIGN:Elves of Golarion|CAMPAIGN:Pirates of the Inner Sea|CAMPAIGN:People of the North|CAMPAIGN:Orcs of Golarion|CAMPAIGN:Magical Marketplace|CAMPAIGN:Melee Tactics Toolbox|CAMPAIGN:Knights of the Inner Sea|CAMPAIGN:Inner Sea Primer|CAMPAIGN:Inner Sea Bestiary|CAMPAIGN:Inner Sea Combat|CAMPAIGN:Inner Sea Gods|CAMPAIGN:Inner Sea Magic|CAMPAIGN:Humans of Golarion|CAMPAIGN:Halflings of Golarion|CAMPAIGN:Dungeoneer's Handbook|CAMPAIGN:Dwarves of Golarion|CAMPAIGN:Faiths and Philosophies|CAMPAIGN:Faiths of Balance|CAMPAIGN:Faiths of Corruption|CAMPAIGN:Faiths of Purity|CAMPAIGN:Gnomes of Golarion|CAMPAIGN:Goblins of Golarion|CAMPAIGN:PF - Demon Hunter's Handbook|CAMPAIGN:Critical Fumble Deck|CAMPAIGN:Champions of Balance|CAMPAIGN:Champions of Corruption|CAMPAIGN:Champions of Purity|CAMPAIGN:Cheliax - Empire of Devils|CAMPAIGN:Blood of Angels|CAMPAIGN:Blood of Fiends|CAMPAIGN:Blood of the Elements|CAMPAIGN:Blood of the Moon|CAMPAIGN:Blood of the Night|CAMPAIGN:Bastards of Golarion|CAMPAIGN:Alchemy Manual|CAMPAIGN:Andoran - Spirit of Liberty|CAMPAIGN:Reign of Winter Player's Guide|CAMPAIGN:Minotaur - Monster Focus: Skeletons|CAMPAIGN:Minotaur - Monster Focus: Zombies|CAMPAIGN:Dragon Companion Handbook|CAMPAIGN:Advanced Options: Inquisitors' Judgments|CAMPAIGN:101 1st Level Spells|CAMPAIGN:Epic Test|CAMPAIGN:PF - City of Strangers|CAMPAIGN:Eclipse - The Codex Persona (PF)|CAMPAIGN:DSP - Ultimate Psionics|CAMPAIGN:Path of War|CAMPAIGN:Remarkable Races|CAMPAIGN:PCGen Enhancement Re-namer
+VERSION:6.06.01 RC3
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Driwyr
+TABNAME:
+PLAYERNAME:
+HEIGHT:72
+WEIGHT:190
+AGE:0
+GENDER:Female
+HANDED:Right
+SKINCOLOR:Pale white
+EYECOLOR:Blue
+HAIRCOLOR:Blueish Black
+HAIRSTYLE:Long and Well Kempt
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:Electricity, Lightning and Thunder
+INTERESTS:Healing and Alchemy
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:12
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:12
+STAT:INT|SCORE:20
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:18
+ALIGN:CG
+RACE:Undine
+
+# Character Class(es)
+CLASS:Witch|LEVEL:10|SKILLPOOL:0
+CLASSABILITIESLEVEL:Witch=1|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=2|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=3|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=4|HITPOINTS:6|PRESTAT:INT=1|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=5|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=6|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=7|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=8|HITPOINTS:6|PRESTAT:INT=1|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=9|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Witch=10|HITPOINTS:6|PRESTAT:WIS=-2|PRESTAT:CHA=2|SKILLSGAINED:7|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:105000
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:FACE_5]
+TEMPLATESAPPLIED:[NAME:REACH_5]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (River Kingdoms)]
+
+# Character Region
+REGION:The River Kingdoms
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Acrobatics (Perform (Dance))|OUTPUTORDER:2|
+SKILL:Appraise|OUTPUTORDER:3|
+SKILL:Appraise (Perception)|OUTPUTORDER:4|
+SKILL:Artistry|OUTPUTORDER:5|
+SKILL:Bluff|OUTPUTORDER:7|
+SKILL:Bluff (Feint)|OUTPUTORDER:8|
+SKILL:Bluff (Perform (Act))|OUTPUTORDER:9|
+SKILL:Bluff (Perform (Comedy))|OUTPUTORDER:10|
+SKILL:Bluff (Perform (Sing))|OUTPUTORDER:11|
+SKILL:Bluff (Perform (String Instruments))|OUTPUTORDER:12|
+SKILL:Climb|OUTPUTORDER:13|
+SKILL:Consolidated Skill ~ Athletics|OUTPUTORDER:6|
+SKILL:Consolidated Skill ~ Influence|OUTPUTORDER:32|
+SKILL:Consolidated Skill ~ Performance|OUTPUTORDER:46|
+SKILL:Craft (Alchemy)|OUTPUTORDER:14|
+SKILL:Craft (Untrained)|OUTPUTORDER:15|
+SKILL:Diplomacy|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:N]
+SKILL:Diplomacy (Knowledge (Nobility))|OUTPUTORDER:17|
+SKILL:Diplomacy (Perform (Keyboard Instruments))|OUTPUTORDER:18|
+SKILL:Diplomacy (Perform (Oratory))|OUTPUTORDER:19|
+SKILL:Diplomacy (Perform (String Instruments))|OUTPUTORDER:20|
+SKILL:Diplomacy (Perform (Wind Instruments))|OUTPUTORDER:21|
+SKILL:Disguise|OUTPUTORDER:23|
+SKILL:Disguise (Perform (Act))|OUTPUTORDER:24|
+SKILL:Escape Artist|OUTPUTORDER:25|
+SKILL:Fly|OUTPUTORDER:26|
+SKILL:Fly (Perform (Dance))|OUTPUTORDER:27|
+SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:29|
+SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:30|
+SKILL:Heal|OUTPUTORDER:31|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate|OUTPUTORDER:33|
+SKILL:Intimidate (Perform (Comedy))|OUTPUTORDER:34|
+SKILL:Intimidate (Perform (Keyboard Instruments))|OUTPUTORDER:35|
+SKILL:Intimidate (Perform (Percussion Instruments))|OUTPUTORDER:36|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:37|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Nature)|OUTPUTORDER:38|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Untrained)|OUTPUTORDER:39|
+SKILL:Mystic Artist Skill|OUTPUTORDER:41|
+SKILL:Perception|OUTPUTORDER:42|
+SKILL:Perception (Dim Light)|OUTPUTORDER:43|
+SKILL:Perception (Mystic energy)|OUTPUTORDER:44|
+SKILL:Perform (Untrained)|OUTPUTORDER:45|
+SKILL:Profession (Untrained)|OUTPUTORDER:47|
+SKILL:Ride|OUTPUTORDER:48|
+SKILL:Samurai Mount|OUTPUTORDER:49|
+SKILL:Sense Motive|OUTPUTORDER:50|
+SKILL:Sense Motive (Perception)|OUTPUTORDER:51|
+SKILL:Sense Motive (Perform (Oratory))|OUTPUTORDER:52|
+SKILL:Sense Motive (Perform (Sing))|OUTPUTORDER:53|
+SKILL:Spellcraft|OUTPUTORDER:55|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:Y]
+SKILL:Stealth|OUTPUTORDER:57|
+SKILL:Stealth (Cane Fields)|OUTPUTORDER:58|
+SKILL:Stealth (Dim Light)|OUTPUTORDER:59|
+SKILL:Stealth (Jungle)|OUTPUTORDER:60|
+SKILL:Survival|OUTPUTORDER:61|
+SKILL:Survival (Follow tracks)|OUTPUTORDER:62|
+SKILL:Swim|OUTPUTORDER:63|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:N]
+SKILL:Untrained Charisma|OUTPUTORDER:64|
+SKILL:Untrained Dexterity|OUTPUTORDER:65|
+SKILL:Untrained Intelligence|OUTPUTORDER:66|
+SKILL:Untrained Strength|OUTPUTORDER:67|
+SKILL:Untrained Wisdom|OUTPUTORDER:68|
+SKILL:Untrained ~ Disable Device|OUTPUTORDER:22|
+SKILL:Untrained ~ Handle Animal|OUTPUTORDER:28|
+SKILL:Untrained ~ Linguistics|OUTPUTORDER:40|
+SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:54|
+SKILL:Untrained ~ Spellcraft|OUTPUTORDER:56|
+SKILL:Untrained ~ Use Magic Device|OUTPUTORDER:70|
+SKILL:Use Magic Device|OUTPUTORDER:69|CLASSBOUGHT:[CLASS:Witch|RANKS:10.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Aquan|LANGUAGE:Auran|LANGUAGE:Common|LANGUAGE:Elven|LANGUAGE:Gnome|LANGUAGE:Halfling|LANGUAGE:Hallit
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Gnome,Elven,Hallit,Halfling|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Gnome,Elven,Hallit,Halfling|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Gnome,Elven,Hallit,Halfling|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Gnome,Elven,Hallit,Halfling|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Gnome,Elven,Hallit,Halfling|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Aquatic Ancestry|TYPE:General|DESC:You favor your outsider ancestry and are better adapted to life in the water.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Aquatic Spell|TYPE:Metamagic|DESC:You can cast your spells under or into water.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Extra Hex|APPLIEDTO:|TYPE:General|DESC:You have learned the secrets of a new hex.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Master Alchemist|TYPE:General|DESC:Your mastery of alchemy is nearly supernatural.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Master Craftsman|APPLIEDTO:Craft (Alchemy)|TYPE:General|DESC:Your superior crafting skills allow you to create simple magic items.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Skill Rank|APPLIEDTO:Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy),Craft (Alchemy)|TYPE:FavoredClassBonus
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:Hex Selection|TYPE:NORMAL|CATEGORY:Internal|KEY:Hex Selection ~ Witch Hex|APPLIEDTO:|TYPE:Hex Selection
+USERPOOL:Hex Selection|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:River Kingdoms|TYPE:Region|DESC:Independent Realms of Low Character
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Wanderer's Shroud|TYPE:Trait.BasicTrait.FaithTrait|DESC:Your wanderings often go unnoticed. Efforts to use the Diplomacy skill to gather information about you take a -1 penalty, and you gain a +1 trait bonus on all saving throws against scrying and mindreading effects that allow saving throws.
+ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Whiteout|TYPE:Trait.RaceTrait.UndineRaceTrait|DESC:In areas of nonmagical fog, rain, snow, or similar conditions (such as the spray of a waterfall), you gain the effects of concealment, but with a miss chance of 10%%. If the precipitation would already grant you concealment, the miss chances stack.
+USERPOOL:Traits|POOLPOINTS:0.0
+ABILITY:Undine Racial Trait|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Undine ~ Water Sense|TYPE:UndineRacialTrait.UndineEnergyResistance.SpecialQuality|DESC:Undines with this racial trait can sense vibrations in water, granting them blindsense 30 feet against creatures in contact with the same body of water. This racial trait replaces energy resistance.
+USERPOOL:Undine Racial Trait|POOLPOINTS:0.0
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Hex ~ Cauldron|TYPE:WitchClassFeatures.SpecialQuality.Extraordinary.WitchHex.MinorHex|DESC:The witch receives Brew Potion as a bonus feat and a +4 insight bonus on Craft (alchemy) skill checks.
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Hex ~ Healing|TYPE:WitchClassFeatures.SpecialQuality.Supernatural.WitchHex.MinorHex|DESC:The witch may heal with a touch, this acts as a cure light wounds spell, using the witch's caster level.&pipe;PREVARLT&colon;WitchHexAbilityLVL,5|DESC:The witch may heal with a touch, this acts as a cure moderate wounds spell, using the  witch's caster level.&pipe;PREVARGTEQ&colon;WitchHexAbilityLVL,5
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Major Hex ~ Beast Eye|TYPE:SpecialQuality.Supernatural.WitchHex.MajorHex|DESC:You can project your senses into an animal within 100 feet, sensing whatever it senses. You cannot control the animal's actions. You can project your senses from that animal to another within 100 feet of it as a standard action, and can continue to make these sensory leaps, potentially viewing things very far from your actual location. You may return your senses to your own body as a free action. Normal animals get no saving throw against this ability, but animal companions, paladin mounts, and similar unusual animals may resist with a Will save; you may use this ability on your own familiar as if it were an animal. If you have the coven hex, all other witches within 10 feet of you who also have the coven hex can see through this animal at will, although you still control the ability. You can use this ability for %1 minutes per day. These minutes need not be consecutive, but they must be spent in 1-minute increments.&pipe;BeastEyeDuration
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Major Hex ~ Hidden Home|TYPE:SpecialQuality.SpellLike.WitchHex.MajorHex|DESC:You can conceal or disguise your home and the area around it as if using mirage arcana. Before using the hex, you must spend 1 day pacing out the border of an area that measures roughly 40,000 square feet (approximately 200 feet by 200 feet) to define your home territory. Thereafter, you can use the hex to change the appearance of that area as a standard action as long as you are within the area. The illusion persists until you change or dismiss it. For the purpose of this ability, you can only have one "home" at a time.
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Major Hex ~ Speak in Dreams|TYPE:SpecialQuality.SpellLike.WitchHex.MajorHex|DESC:You can contact a creature as if using dream. You can use this ability on %1 creatures per day, but can dream-speak to those creatures as often as desired throughout that time period.&pipe;SpeakInDreamsCreatures
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Major Hex ~ Vision|TYPE:WitchClassFeatures.SpecialQuality.Supernatural.WitchHex.MajorHex|DESC:Granting a vision takes 1 minute, during which time the witch and the target must remain in contact with one another. At the end of this time, the subject receives a brief image of one possible version of the future, usually no more than 1 year from the time of the vision, subject to GM discretion. Unwilling creatures receive a Will save to negate the vision.
+ABILITY:Witch Hex|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Major Hex ~ Witch's Bounty|TYPE:WitchClassFeatures.SpecialQuality.Supernatural.WitchHex.MajorHex|DESC:The witch may bless a bush, plant, or tree that is planted in the ground, so that it creates a plentiful harvest. Each day at dawn, this blessed bush grows a number of goodberries equal to twice her witch level. Berries on the tree remain until they are picked, but the tree can never manifest a number of berries greater than twice her level at one time. The witch may only have one witch's bounty active at a time, but can shift her blessing to a new plant with a ritual requiring i hour.
+USERPOOL:Witch Hex|POOLPOINTS:0.0
+ABILITY:Witch Patron|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Witch Patron ~ Water|TYPE:WitchPatron.SpecialQuality.WinterWitchPatron
+USERPOOL:Witch Patron|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Battle Aspergillum|WEAPON:Bayonet|WEAPON:Blowgun|WEAPON:Boar Spear|WEAPON:Boarding Pike|WEAPON:Brass Knife|WEAPON:Brass Knuckles|WEAPON:Cestus|WEAPON:Club|WEAPON:Crossbow (Heavy)]
+WEAPONPROF:[WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Chain)|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Gaff|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Grapple|WEAPON:Hanbo]
+WEAPONPROF:[WEAPON:Hook Hand|WEAPON:Javelin|WEAPON:Khakkhara|WEAPON:Kumade|WEAPON:Kunai|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Mere Club|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Quarterstaff|WEAPON:Rock|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Sling (Stone Bloodline)|WEAPON:Spear|WEAPON:Spear (Boar)|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)]
+WEAPONPROF:[WEAPON:Splash Weapon|WEAPON:Stake|WEAPON:Stonebow|WEAPON:Unarmed Strike|WEAPON:Underwater Crossbow (Heavy)|WEAPON:Underwater Crossbow (Light)|WEAPON:Weighted Spear]
+
+# Character Equipment
+MONEY:39973.4000000000014551915228366851806640625
+EQUIPNAME:Abacus|OUTPUTORDER:0|COST:2|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Alchemist's Lab|OUTPUTORDER:0|COST:200|WT:40.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Alchemist's Lab|DATA:NAME=Alchemist's Lab]
+EQUIPNAME:Alchemy Crafting Kit|OUTPUTORDER:0|COST:25|WT:50.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Alchemy Crafting Kit|DATA:NAME=Alchemy Crafting Kit]
+EQUIPNAME:Allnight|OUTPUTORDER:0|COST:75|WT:0.0|QUANTITY:10.0|NOTE:
+EQUIPNAME:Antidote Kit|OUTPUTORDER:0|COST:100|WT:3.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Antidote Kit|DATA:NAME=Antidote Kit]
+EQUIPNAME:Arcane Family Workbook|OUTPUTORDER:0|COST:300|WT:3.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Arcane Family Workbook|DATA:NAME=Arcane Family Workbook]
+EQUIPNAME:Bedroll|OUTPUTORDER:0|COST:0.1|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Belladonna|OUTPUTORDER:0|COST:2|WT:0.0|QUANTITY:10.0|NOTE:
+EQUIPNAME:Blanket (Winter)|OUTPUTORDER:0|COST:0.5|WT:3.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Board Games (Exceptional)|OUTPUTORDER:0|COST:10|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Boots (Fire-Resistant)|OUTPUTORDER:0|COST:20|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Brewer's Kit (Masterwork)|OUTPUTORDER:0|COST:20|WT:75.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Brewer's Kit (Masterwork)|DATA:NAME=Brewer's Kit (Masterwork)]
+EQUIPNAME:Celestial Lamp|OUTPUTORDER:0|COST:300|WT:2.0|QUANTITY:5.0|NOTE:
+EQUIPNAME:Coffee Pot|OUTPUTORDER:0|COST:3|WT:4.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Dartboard Set|OUTPUTORDER:0|COST:0.5|WT:10.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Driftwood Icon|OUTPUTORDER:0|COST:25|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Driftwood Icon|DATA:NAME=Driftwood Icon]
+EQUIPNAME:Endless Bandolier|OUTPUTORDER:0|COST:1500|WT:2.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Endless Bandolier|DATA:NAME=Endless Bandolier]
+EQUIPNAME:Eyeglasses|OUTPUTORDER:0|COST:5|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Filter|OUTPUTORDER:0|COST:0.5|WT:0.5|QUANTITY:1.0|NOTE:
+EQUIPNAME:Firewood (Per Day)|OUTPUTORDER:0|COST:0.01|WT:20.0|QUANTITY:10.0|NOTE:
+EQUIPNAME:Flint and Steel|OUTPUTORDER:0|COST:1|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Footprint Book|OUTPUTORDER:0|COST:50|WT:3.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Gear Maintenance Kit|OUTPUTORDER:0|COST:5|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Hand Rotary Quern|OUTPUTORDER:0|COST:10|WT:20.0|QUANTITY:2.0|NOTE:
+EQUIPNAME:Healer's Kit|OUTPUTORDER:0|COST:50.0|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Healer's Kit|DATA:EQMOD=CHARGED_ITEM_10&pipe;CHARGES&lbracket;10&rbracket;]
+EQUIPNAME:Insomnia Powder|OUTPUTORDER:0|COST:60|WT:2.0|QUANTITY:10.0|NOTE:
+EQUIPNAME:Leeching Kit|OUTPUTORDER:0|COST:5|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Living Garments|OUTPUTORDER:0|COST:5000|WT:2.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Living Garments|DATA:NAME=Living Garments]
+EQUIPNAME:Masterwork Sickle|OUTPUTORDER:0|COST:306.0|WT:2.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Sickle|DATA:NAME=Masterwork Sickle$EQMOD=STEEL.TRIP.MWORKW.PPRCT$SPROP=(Masterwork Sickle (Paper Cut))]
+EQUIPNAME:Mess Kit|OUTPUTORDER:0|COST:0.2|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Night Tea|OUTPUTORDER:0|COST:0.1|WT:0.0|QUANTITY:100.0|NOTE:
+EQUIPNAME:Outfit (Artisan's)|OUTPUTORDER:0|COST:1|WT:4.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Outfit (Doctor)|OUTPUTORDER:0|COST:150|WT:6.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Pot (Iron)|OUTPUTORDER:0|COST:0.8|WT:4.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Reversible Cloak (Common)|OUTPUTORDER:0|COST:0.2|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Ring of Sustenance|OUTPUTORDER:0|COST:2500|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Scarf (Pocketed)|OUTPUTORDER:0|COST:8|WT:0.5|QUANTITY:1.0|NOTE:
+EQUIPNAME:Scholar's Ring|OUTPUTORDER:0|COST:8700|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Snuffbox (Tortoise Shell)|OUTPUTORDER:0|COST:25|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Snuffbox (Tortoise Shell)|DATA:NAME=Snuffbox (Tortoise Shell)]
+EQUIPNAME:Stationary|OUTPUTORDER:0|COST:1|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Stove Can|OUTPUTORDER:0|COST:10|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Swim fins|OUTPUTORDER:0|COST:0.1|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Symptom Kit|OUTPUTORDER:0|COST:25|WT:5.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Teapot|OUTPUTORDER:0|COST:0.1|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Thermometer|OUTPUTORDER:0|COST:25|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Toad (Vision)|OUTPUTORDER:0|COST:1|WT:0.4|QUANTITY:1.0|NOTE:
+EQUIPNAME:Veterinarian's Kit|OUTPUTORDER:0|COST:25|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Waterproof Bag|OUTPUTORDER:0|COST:0.5|WT:0.5|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Waterproof Bag|DATA:NAME=Waterproof Bag]
+EQUIPNAME:Wolfsbane|OUTPUTORDER:0|COST:0.5|WT:0.0|QUANTITY:50.0|NOTE:
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Naderi|DEITYDOMAINS:[DOMAIN:Charm|DOMAIN:Nobility|DOMAIN:Repose|DOMAIN:Water|DOMAIN:Love Subdomain|DOMAIN:Lust Subdomain|DOMAIN:Martyr Subdomain|DOMAIN:Souls Subdomain]|ALIGNALLOW:|DESC:Goddess of drowning, romantic tragedy, suicide|DEITYFAVWEAP:[WEAPON:Dagger]|DEITYALIGN:TN
+
+# Character Spells Information
+SPELLNAME:Bless Water|TIMES:1|CLASS:Witch|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Witch]
+SPELLNAME:Control Water|TIMES:1|CLASS:Witch|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Witch]
+SPELLNAME:Curse Water|TIMES:1|CLASS:Witch|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Witch]
+SPELLNAME:Geyser|TIMES:1|CLASS:Witch|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Witch]
+SPELLNAME:Slipstream|TIMES:1|CLASS:Witch|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Witch]
+SPELLNAME:Water Breathing|TIMES:1|CLASS:Witch|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Witch]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Cuwyr|TYPE:Familiar|RACE:FAMILIAR (PLATYPUS)|HITDICE:0|FILE:Cuwyr(Driwyr's Platipus).pcg
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

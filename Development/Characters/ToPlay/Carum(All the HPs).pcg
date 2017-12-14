@@ -1,0 +1,231 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Core Rulebook|CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Bestiary|CAMPAIGN:Bestiary 2|CAMPAIGN:Bestiary 3|CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Equipment|CAMPAIGN:Ultimate Magic|CAMPAIGN:Pathfinder Unchained|CAMPAIGN:Advanced Class Guide|CAMPAIGN:Advanced Race Guide|CAMPAIGN:Storm Bunny Studios - The Gun Priest|CAMPAIGN:Technology Guide|CAMPAIGN:Inner Sea World Guide|CAMPAIGN:Super Genius Games - Adventurer's Handbook|CAMPAIGN:Super Genius Games - Genius Guide: Air Magic|CAMPAIGN:Super Genius Games - Krazy Kragnar's Alchemical Surplus Shop|CAMPAIGN:The Genius Guide to The Talented Rogue|CAMPAIGN:Animal Archive|CAMPAIGN:Adventurer's Armory|CAMPAIGN:Ultimate Campaign|CAMPAIGN:PF - Weapon Master's Handbook|CAMPAIGN:PF - Quests and Campaigns|CAMPAIGN:Ranged Tactics Toolbox|CAMPAIGN:Elves of Golarion|CAMPAIGN:Pirates of the Inner Sea|CAMPAIGN:People of the North|CAMPAIGN:Orcs of Golarion|CAMPAIGN:Magical Marketplace|CAMPAIGN:Melee Tactics Toolbox|CAMPAIGN:Knights of the Inner Sea|CAMPAIGN:Inner Sea Primer|CAMPAIGN:Inner Sea Bestiary|CAMPAIGN:Inner Sea Combat|CAMPAIGN:Inner Sea Gods|CAMPAIGN:Inner Sea Magic|CAMPAIGN:Humans of Golarion|CAMPAIGN:Halflings of Golarion|CAMPAIGN:Dungeoneer's Handbook|CAMPAIGN:Dwarves of Golarion|CAMPAIGN:Faiths and Philosophies|CAMPAIGN:Faiths of Balance|CAMPAIGN:Faiths of Corruption|CAMPAIGN:Faiths of Purity|CAMPAIGN:Gnomes of Golarion|CAMPAIGN:Goblins of Golarion|CAMPAIGN:PF - Demon Hunter's Handbook|CAMPAIGN:Critical Fumble Deck|CAMPAIGN:Champions of Balance|CAMPAIGN:Champions of Corruption|CAMPAIGN:Champions of Purity|CAMPAIGN:Cheliax - Empire of Devils|CAMPAIGN:Blood of Angels|CAMPAIGN:Blood of Fiends|CAMPAIGN:Blood of the Elements|CAMPAIGN:Blood of the Moon|CAMPAIGN:Blood of the Night|CAMPAIGN:Bastards of Golarion|CAMPAIGN:Alchemy Manual|CAMPAIGN:Andoran - Spirit of Liberty|CAMPAIGN:Reign of Winter Player's Guide|CAMPAIGN:Minotaur - Monster Focus: Skeletons|CAMPAIGN:Minotaur - Monster Focus: Zombies|CAMPAIGN:Dragon Companion Handbook|CAMPAIGN:Advanced Options: Inquisitors' Judgments|CAMPAIGN:101 1st Level Spells|CAMPAIGN:Epic Test|CAMPAIGN:PF - City of Strangers|CAMPAIGN:Eclipse - The Codex Persona (PF)|CAMPAIGN:DSP - Ultimate Psionics|CAMPAIGN:Path of War|CAMPAIGN:Remarkable Races|CAMPAIGN:PCGen Enhancement Re-namer
+VERSION:6.06.01 RC3
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:Pathfinder_RPG
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Carum
+TABNAME:
+PLAYERNAME:
+HEIGHT:78
+WEIGHT:268
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:Copper
+EYECOLOR:Copper
+HAIRCOLOR:None
+HAIRSTYLE:None
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:19
+STAT:DEX|SCORE:18
+STAT:CON|SCORE:18
+STAT:INT|SCORE:12
+STAT:WIS|SCORE:10
+STAT:CHA|SCORE:12
+ALIGN:TN
+RACE:Relluk
+
+# Character Class(es)
+CLASS:Barbarian|LEVEL:5|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Barbarian=1|HITPOINTS:12|PRESTAT:WIS=0|PRESTAT:INT=2|PRESTAT:DEX=2|PRESTAT:CHA=4|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Barbarian=2|HITPOINTS:12|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Barbarian=3|HITPOINTS:12|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Barbarian=4|HITPOINTS:12|PRESTAT:STR=1|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Barbarian=5|HITPOINTS:12|SKILLSGAINED:5|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:15000
+EXPERIENCETABLE:Medium
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Creature with Class Levels]
+TEMPLATESAPPLIED:[NAME:FACE_5]
+TEMPLATESAPPLIED:[NAME:REACH_5]
+TEMPLATESAPPLIED:[NAME:No Constitution Score]
+TEMPLATESAPPLIED:[NAME:Regional Affinity (City of Brass)]
+
+# Character Region
+REGION:City of Brass
+
+# Character Skills
+SKILL:Acrobatics|CLASSBOUGHT:[CLASS:Barbarian|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Climb|CLASSBOUGHT:[CLASS:Barbarian|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate|CLASSBOUGHT:[CLASS:Barbarian|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|CLASSBOUGHT:[CLASS:Barbarian|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Swim|CLASSBOUGHT:[CLASS:Barbarian|RANKS:5.0|COST:1|CLASSSKILL:Y]
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Dwarven
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Barbarian Archetype|TYPE:NORMAL|CATEGORY:Archetype|KEY:Barbarian Archetype ~ Armored Hulk|TYPE:Archetype.BarbarianArchetype.BarbarianFastMovement.BarbarianUncannyDodge.BarbarianTrapSense.BarbarianImprovedUncannyDodge|DESC:Some barbarians disdain the hides and leather used as armor by most of their kin. Instead they master the heaviest of armors, even those created by more civilized people, to gain greater protection and stability in battle.
+USERPOOL:Barbarian Archetype|POOLPOINTS:0.0
+ABILITY:Barbarian Class Selection|TYPE:NORMAL|CATEGORY:Class|KEY:Empty Selection ~ Standard Barbarian|TYPE:Barbarian Class Selection
+USERPOOL:Barbarian Class Selection|POOLPOINTS:0.0
+ABILITY:Controlled Rage Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Controlled Rage (Constitution)|TYPE:Controlled Rage Choice|DESC:Select this to assign full bonus to Constitution.
+USERPOOL:Controlled Rage Choice|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Toughness|TYPE:General.DraconicBloodline.UndeadBloodline.AquaticBloodline.BorealBloodline.ProteanBloodline.StarsoulBloodline.VerdantBloodline.DruidShamanBear.AbyssalBloodragerBloodline.DraconicBloodragerBloodline.UndeadBloodragerBloodline.OrcBloodline.DaemonBloodline|DESC:You have enhanced physical stamina.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Trlbal Scars (Bearpelt)|TYPE:General|DESC:You endured the grueling coming-of-age rituals of your tribe or following, and proudly bear the scars that grant you the blessings of your tribe's ancestors or totem.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Trlbal Scars (Greattusk)|TYPE:General|DESC:You endured the grueling coming-of-age rituals of your tribe or following, and proudly bear the scars that grant you the blessings of your tribe's ancestors or totem.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Barbarian|TYPE:FavoredClass
+USERPOOL:Favored Class|POOLPOINTS:0.0
+ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Hit Point|APPLIEDTO:,,,,|TYPE:FavoredClassBonus
+USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
+ABILITY:Rage Power|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rage Power ~ Guarded Life|TYPE:ClassFeatures.BarbarianClassFeatures.RagePower.SpecialAttack.Extraordinary.Unchained Rage Power|DESC:While raging, if the barbarian is reduced below 0 hit points, 1 hit point of lethal damage per barbarian level is converted to nonlethal damage. If the barbarian is at negative hit points due to lethal damage, she immediately stabilizes.
+ABILITY:Rage Power|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rage Power ~ Strength Surge|TYPE:BarbarianClassFeatures.ClassFeatures.RagePower.SpecialQuality.Extraordinary|DESC:You add +%1 on one Strength check or combat maneuver check, or to your Combat Maneuver Defense when an opponent attempts a maneuver against you. This power is used as an immediate action. This power can only be used once per rage.&pipe;StrengthSurgeBonus
+USERPOOL:Rage Power|POOLPOINTS:0.0
+ABILITY:Raging Selection|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Controlled Rage|TYPE:RageSelection.RageSelectionAlt
+USERPOOL:Raging Selection|POOLPOINTS:0.0
+ABILITY:Region of Origin|TYPE:NORMAL|CATEGORY:Background|KEY:City of Brass|TYPE:Region|DESC:Surrounded by seas of flame and magma, the City of Brass is an oasis of civilization within an otherwise brutal realm.
+USERPOOL:Region of Origin|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aldori Dueling Sword|WEAPON:Amentum|WEAPON:Ankus|WEAPON:Atlatl|WEAPON:Axe (Boarding)|WEAPON:Axe (Throwing)|WEAPON:Bardiche|WEAPON:Battle Aspergillum|WEAPON:Battle Poi|WEAPON:Battleaxe]
+WEAPONPROF:[WEAPON:Bayonet|WEAPON:Bec de Corbin|WEAPON:Bill|WEAPON:Blade Boot|WEAPON:Blowgun|WEAPON:Boar Spear|WEAPON:Boarding Pike|WEAPON:Brass Knife|WEAPON:Brass Knuckles|WEAPON:Broadsword (Nine Ring)]
+WEAPONPROF:[WEAPON:Butterfly Sword|WEAPON:Cat-O'-Nine-Tails|WEAPON:Cestus|WEAPON:Chakram|WEAPON:Club|WEAPON:Combat Scabbard|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger]
+WEAPONPROF:[WEAPON:Dagger (Chain)|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Dogslicer|WEAPON:Double Chicken Saber|WEAPON:Earth Breaker|WEAPON:Estoc|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)]
+WEAPONPROF:[WEAPON:Flambard|WEAPON:Gaff|WEAPON:Gandasa|WEAPON:Garrote|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Gladius|WEAPON:Glaive|WEAPON:Glaive-Guisarme|WEAPON:Grapple]
+WEAPONPROF:[WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd|WEAPON:Hammer (Light)|WEAPON:Hanbo|WEAPON:Handaxe|WEAPON:Hook Hand|WEAPON:Hooked Lance]
+WEAPONPROF:[WEAPON:Horsechopper|WEAPON:Hunga Munga|WEAPON:Hurlbat|WEAPON:Iron Brush|WEAPON:Javelin|WEAPON:Jutte|WEAPON:Katana|WEAPON:Kerambit|WEAPON:Khakkhara|WEAPON:Klar]
+WEAPONPROF:[WEAPON:Kukri|WEAPON:Kumade|WEAPON:Kunai|WEAPON:Lance|WEAPON:Laser Torch|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Lucerne Hammer|WEAPON:Lungchuan Tamo]
+WEAPONPROF:[WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Machete|WEAPON:Manople|WEAPON:Martial Weapon|WEAPON:Mattock|WEAPON:Mere Club|WEAPON:Monk's Spade|WEAPON:Morningstar|WEAPON:Naginata]
+WEAPONPROF:[WEAPON:Nodachi|WEAPON:Ogre Hook|WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Pilum|WEAPON:Planson|WEAPON:Poisoned Sand Tube|WEAPON:Quarterstaff|WEAPON:Ranseur|WEAPON:Rapier]
+WEAPONPROF:[WEAPON:Rhoka|WEAPON:Rhomphaia|WEAPON:Rock|WEAPON:Rope Gauntlet|WEAPON:Sansetsukon|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scizore|WEAPON:Scythe|WEAPON:Sea-Knife]
+WEAPONPROF:[WEAPON:Shang Gou|WEAPON:Shieldbash|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sibat|WEAPON:Sickle|WEAPON:Sling|WEAPON:Sling (Stone Bloodline)|WEAPON:Sling Glove|WEAPON:Spear]
+WEAPONPROF:[WEAPON:Spear (Boar)|WEAPON:Spear-Sling|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Spiked Armor|WEAPON:Splash Weapon|WEAPON:Stake|WEAPON:Starknife|WEAPON:Stingchuck|WEAPON:Stonebow]
+WEAPONPROF:[WEAPON:Switchblade Knife|WEAPON:Sword (Bastard)|WEAPON:Sword (Short)|WEAPON:Sword (Tri-Point Double-Edged)|WEAPON:Sword Cane|WEAPON:Syringe spear|WEAPON:Tepoztopilli|WEAPON:Terbutje|WEAPON:Terbutje (Great)|WEAPON:Throwing Arrow Cord]
+WEAPONPROF:[WEAPON:Tiger Fork|WEAPON:Tonfa|WEAPON:Trident|WEAPON:Tube Arrow Shooter|WEAPON:Unarmed Strike|WEAPON:Underwater Crossbow (Heavy)|WEAPON:Underwater Crossbow (Light)|WEAPON:War Flute|WEAPON:War Razor|WEAPON:Waraxe (Dwarven)]
+WEAPONPROF:[WEAPON:Warhammer|WEAPON:Weighted Spear|WEAPON:Wushu Dart]
+
+# Character Equipment
+MONEY:2582.59999999999990905052982270717620849609375
+EQUIPNAME:Armor Spikes|OUTPUTORDER:0|COST:0.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Armor Spikes|DATA:EQMOD=STEEL]
+EQUIPNAME:Backpack (Masterwork)|OUTPUTORDER:12|COST:50|WT:4.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Backpack (Masterwork)|DATA:NAME=Backpack (Masterwork)]
+EQUIPNAME:Bedroll|OUTPUTORDER:13|COST:0.1|WT:5.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bedroll|DATA:NAME=Bedroll]
+EQUIPNAME:Belt|OUTPUTORDER:7|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Belt|DATA:NAME=Belt]
+EQUIPNAME:Boots|OUTPUTORDER:11|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Boots|DATA:NAME=Boots]
+EQUIPNAME:Bracers of Armor +2|OUTPUTORDER:1|COST:4000|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bracers of Armor +2|DATA:NAME=Bracers of Armor +2]
+EQUIPNAME:Cape|OUTPUTORDER:8|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Cape|DATA:NAME=Cape]
+EQUIPNAME:Flint and Steel|OUTPUTORDER:14|COST:1|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Flint and Steel|DATA:NAME=Flint and Steel]
+EQUIPNAME:Full Plate (Armor Spikes)|OUTPUTORDER:9|COST:1550.0|WT:50.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Full Plate|DATA:NAME=Full Plate (Armor Spikes)$EQMOD=STEEL.SPIKE_A]
+EQUIPNAME:Gauntlet|OUTPUTORDER:0|COST:0.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Gauntlet (Part of Armor Suit)|DATA:KEY=Gauntlet (Part of Armor Suit)$EQMOD=STEEL]
+EQUIPNAME:Gauntlets|OUTPUTORDER:3|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Gauntlets|DATA:NAME=Gauntlets]
+EQUIPNAME:Lantern (Bullseye/Waterproof)|OUTPUTORDER:15|COST:17|WT:3.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Lantern (Bullseye/Waterproof)|DATA:NAME=Lantern (Bullseye/Waterproof)]
+EQUIPNAME:Mess Kit|OUTPUTORDER:16|COST:0.2|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Mess Kit|DATA:NAME=Mess Kit]
+EQUIPNAME:Oil (1 Pint Flask)|OUTPUTORDER:17|COST:0.1|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Oil (1 Pint Flask)|DATA:NAME=Oil (1 Pint Flask)]
+EQUIPNAME:Outfit (Artisan's)|OUTPUTORDER:10|COST:0|WT:4.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Outfit (Artisan's)|DATA:NAME=Outfit (Artisan's)$KEY=Outfit (Artisan_s)$COSTMOD=-1]
+EQUIPNAME:Rations (Trail/Per Day)|OUTPUTORDER:18|COST:0.5|WT:1.0|QUANTITY:10.0|NOTE:
+EQUIPNAME:Ring of Protection +1|OUTPUTORDER:4|COST:2000|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Ring of Protection +1|DATA:NAME=Ring of Protection +1]
+EQUIPNAME:Rope (Spider Silk/50 ft.)|OUTPUTORDER:19|COST:100|WT:4.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Rope (Spider Silk/50 ft.)|DATA:NAME=Rope (Spider Silk/50 ft.)]
+EQUIPNAME:Shield, Heavy Steel (Shield Spikes)|OUTPUTORDER:23|COST:30.0|WT:20.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Shield (Heavy/Steel)|DATA:NAME=Shield, Heavy Steel (Shield Spikes)$KEY=Shield (Heavy/Steel/Shield Spikes)$EQMOD=STEEL.SPIKE_S]
+EQUIPNAME:Survival Kit (Masterwork)|OUTPUTORDER:20|COST:50|WT:5.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Survival Kit (Masterwork)|DATA:NAME=Survival Kit (Masterwork)]
+EQUIPNAME:Tent (Pavilion) (10 people)|OUTPUTORDER:21|COST:100|WT:50.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Tent (Pavilion) (10 people)|DATA:NAME=Tent (Pavilion) (10 people)]
+EQUIPNAME:Warhammer|OUTPUTORDER:5|COST:12.0|WT:5.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Warhammer|DATA:NAME=Warhammer$EQMOD=STEEL]
+EQUIPNAME:Waterskin (Filled)|OUTPUTORDER:22|COST:1|WT:4.0|QUANTITY:2.0|NOTE:
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.01|VALUE:Backpack (Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.01|VALUE:Bedroll|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.02|VALUE:Flint and Steel|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.03|VALUE:Lantern (Bullseye/Waterproof)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.04|VALUE:Mess Kit|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.05|VALUE:Oil (1 Pint Flask)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.06|VALUE:Rations (Trail/Per Day)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.07|VALUE:Rope (Spider Silk/50 ft.)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.08|VALUE:Survival Kit (Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.09|VALUE:Tent (Pavilion) (10 people)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.10|VALUE:Waterskin (Filled)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.11|VALUE:Lantern (Bullseye/Waterproof)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.12|VALUE:Mess Kit|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.13|VALUE:Oil (1 Pint Flask)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.14|VALUE:Rations (Trail/Per Day)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.15|VALUE:Rope (Spider Silk/50 ft.)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.16|VALUE:Survival Kit (Masterwork)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.17|VALUE:Tent (Pavilion) (10 people)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Backpack (Masterwork)|ID:0.1.01.18|VALUE:Waterskin (Filled)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Belt|ID:0.1.02|VALUE:Belt|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Feet|ID:0.1.03|VALUE:Boots|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Wrist|ID:0.1.04|VALUE:Bracers of Armor +2|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shoulders|ID:0.1.05|VALUE:Cape|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Armor|ID:0.1.06|VALUE:Full Plate (Armor Spikes)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.07|VALUE:Gauntlets|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.08|VALUE:Outfit (Artisan's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Ring|ID:0.1.09|VALUE:Ring of Protection +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shield|ID:0.1.10|VALUE:Shield, Heavy Steel (Shield Spikes)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.11|VALUE:Warhammer|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Unarmed|ID:0.1.12|VALUE:Armor Spikes|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.14|VALUE:Gauntlets|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.15|VALUE:Outfit (Artisan's)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Ring|ID:0.1.16|VALUE:Ring of Protection +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Carried|ID:0.1.17|VALUE:Shield, Heavy Steel (Shield Spikes)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.18|VALUE:Warhammer|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Unarmed|ID:0.1.19|VALUE:Gauntlet|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:None|DEITYDOMAINS:[DOMAIN:Aeon Subdomain|DOMAIN:Agathion Subdomain|DOMAIN:Air|DOMAIN:Ancestors Subdomain|DOMAIN:Animal|DOMAIN:Aquatic|DOMAIN:Arcane Subdomain|DOMAIN:Archon Subdomain (Good)|DOMAIN:Archon Subdomain (Law)|DOMAIN:Arctic|DOMAIN:Aristocracy Subdomain|DOMAIN:Arson Subdomain|DOMAIN:Artifice|DOMAIN:Ash Subdomain|DOMAIN:Azata Subdomain (Chaos)|DOMAIN:Azata Subdomain (Good)|DOMAIN:Badlands|DOMAIN:Blood Subdomain|DOMAIN:Cannibalism Subdomain|DOMAIN:Catastrophe Subdomain|DOMAIN:Cave|DOMAIN:Caves Subdomain|DOMAIN:Chaos|DOMAIN:Charm|DOMAIN:Cloud Subdomain|DOMAIN:Cold Iron|DOMAIN:Community|DOMAIN:Construct Subdomain|DOMAIN:Cooperation Subdomain|DOMAIN:Corruption Subdomain|DOMAIN:Crocodile|DOMAIN:Curse Subdomain|DOMAIN:Daemon Subdomain|DOMAIN:Dark Tapestry Subdomain|DOMAIN:Darkness|DOMAIN:Day Subdomain|DOMAIN:Death|DOMAIN:Death (Pharasma)|DOMAIN:Decay Subdomain|DOMAIN:Deception Subdomain|DOMAIN:Defense Subdomain|DOMAIN:Demodand Subdomain (Chaos)|DOMAIN:Demodand Subdomain (Evil)|DOMAIN:Demon Subdomain (Chaos)|DOMAIN:Demon Subdomain (Evil)|DOMAIN:Desert|DOMAIN:Destruction|DOMAIN:Devil Subdomain (Evil)|DOMAIN:Devil Subdomain (Law)|DOMAIN:Discipline Subdomain|DOMAIN:Divine Subdomain|DOMAIN:Dragon Subdomain|DOMAIN:Dreams Subdomain|DOMAIN:Eagle|DOMAIN:Earth|DOMAIN:Entropy Subdomain|DOMAIN:Evil|DOMAIN:Exploration Subdomain|DOMAIN:Family Subdomain|DOMAIN:Fate Subdomain|DOMAIN:Fear Subdomain|DOMAIN:Feather Subdomain|DOMAIN:Ferocity Subdomain|DOMAIN:Fire|DOMAIN:Fist Subdomain|DOMAIN:Flotsam Subdomain|DOMAIN:Flowing Subdomain|DOMAIN:Freedom Subdomain|DOMAIN:Friendship Subdomain|DOMAIN:Frog|DOMAIN:Fur Subdomain|DOMAIN:Glory|DOMAIN:Good|DOMAIN:Greed Subdomain|DOMAIN:Growth Subdomain|DOMAIN:Hatred Subdomain|DOMAIN:Healing|DOMAIN:Heroism Subdomain|DOMAIN:Home Subdomain|DOMAIN:Honor Subdomain|DOMAIN:Ice|DOMAIN:Ice Subdomain|DOMAIN:Imagination Subdomain|DOMAIN:Inevitable Subdomain|DOMAIN:Innuendo Subdomain|DOMAIN:Insanity Subdomain|DOMAIN:Isolation Subdomain|DOMAIN:Judgment Subdomain|DOMAIN:Jungle|DOMAIN:Knowledge|DOMAIN:Kyton Subdomain (Evil)|DOMAIN:Kyton Subdomain (Law)|DOMAIN:Language Subdomain|DOMAIN:Law|DOMAIN:Leadership Subdomain|DOMAIN:Liberation|DOMAIN:Light Subdomain|DOMAIN:Loss Subdomain|DOMAIN:Love Subdomain|DOMAIN:Loyalty Subdomain|DOMAIN:Luck|DOMAIN:Lust Subdomain|DOMAIN:Madness|DOMAIN:Magic|DOMAIN:Martyr Subdomain|DOMAIN:Memory Subdomain|DOMAIN:Metal Subdomain|DOMAIN:Monkey|DOMAIN:Moon Subdomain|DOMAIN:Mountain|DOMAIN:Murder Subdomain|DOMAIN:Night Subdomain|DOMAIN:Nightmare Subdomain|DOMAIN:Nobility|DOMAIN:Noetics Subdomain|DOMAIN:Oceans Subdomain|DOMAIN:Panther|DOMAIN:Plains|DOMAIN:Plant|DOMAIN:Preservation|DOMAIN:Protean Subdomain|DOMAIN:Protection|DOMAIN:Psionics|DOMAIN:Psychopomp Subdomain (Death)|DOMAIN:Psychopomp Subdomain (Repose)|DOMAIN:Purity Subdomain|DOMAIN:Rage Subdomain|DOMAIN:Redemption Subdomain|DOMAIN:Repose|DOMAIN:Resolve Subdomain|DOMAIN:Restoration Subdomain|DOMAIN:Resurrection Subdomain|DOMAIN:Revelation Subdomain|DOMAIN:Revelry Subdomain|DOMAIN:Revolution Subdomain|DOMAIN:Rivers Subdomain|DOMAIN:Rune|DOMAIN:Saurian Subdomain|DOMAIN:Scalykind|DOMAIN:Seasons Subdomain|DOMAIN:Serpent|DOMAIN:Slavery Subdomain|DOMAIN:Smoke Subdomain|DOMAIN:Solitude Subdomain|DOMAIN:Souls (Pharasma) Subdomain|DOMAIN:Souls Subdomain|DOMAIN:Stars Subdomain|DOMAIN:Storms Subdomain|DOMAIN:Strength|DOMAIN:Sun|DOMAIN:Swamp|DOMAIN:Tactics Subdomain|DOMAIN:Thievery Subdomain|DOMAIN:Thought Subdomain|DOMAIN:Toil Subdomain|DOMAIN:Torture Subdomain|DOMAIN:Trade Subdomain|DOMAIN:Travel|DOMAIN:Trickery|DOMAIN:Tyranny Subdomain|DOMAIN:Undead Subdomain|DOMAIN:Venom Subdomain|DOMAIN:Void|DOMAIN:Vulture|DOMAIN:War|DOMAIN:Wards Subdomain|DOMAIN:Water|DOMAIN:Weather|DOMAIN:Whimsy Subdomain|DOMAIN:Wind|DOMAIN:Wind Subdomain|DOMAIN:Wolf]|ALIGNALLOW:|DESC:None|DEITYFAVWEAP:[WEAPON:ALL]|DEITYALIGN:
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+
